@@ -1,0 +1,35 @@
+{
+  "name": "auth0-react-redux-notes",
+  "version": "1.0.0",
+  "description": "Example showing Auth0 usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppak10/Auth0-React-Redux-Notes.git"
+  },
+  "author": "ppak10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppak10/Auth0-React-Redux-Notes/issues"
+  },
+  "homepage": "https://github.com/ppak10/Auth0-React-Redux-Notes#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-transform-react-jsx": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "express": "^4.16.4",
+    "webpack": "^4.20.2",
+    "webpack-dev-middleware": "^3.4.0",
+    "webpack-hot-middleware": "^2.24.3"
+  }
+}
